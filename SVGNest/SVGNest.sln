@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVGNest", "SVGNest.csproj", "{602AD375-31F3-4CAB-8590-D1E9DD0CCAC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVGL PresenterDebugger", "..\..\TVGL\TVGL PresenterDebugger\TVGL PresenterDebugger.csproj", "{E554ECA0-03AC-4251-A9BD-06F7265851B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602AD375-31F3-4CAB-8590-D1E9DD0CCAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602AD375-31F3-4CAB-8590-D1E9DD0CCAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602AD375-31F3-4CAB-8590-D1E9DD0CCAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602AD375-31F3-4CAB-8590-D1E9DD0CCAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E554ECA0-03AC-4251-A9BD-06F7265851B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E554ECA0-03AC-4251-A9BD-06F7265851B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E554ECA0-03AC-4251-A9BD-06F7265851B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E554ECA0-03AC-4251-A9BD-06F7265851B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
